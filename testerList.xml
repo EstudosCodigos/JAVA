@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Tester name="Inter Plataform Communication" skip="false">
+	<ClassName> test.funcionalidade.FuncionalidadeTesterAgent</ClassName>
+	<Description>This item includes tests related to agent communication across different plataforms</Description>
+	<TestsListRif>test/funcionalidade/funcionalidadeTestList.xml</TestsListRif>
+</Tester>	

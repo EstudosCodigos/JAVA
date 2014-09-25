@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestList>
+	<Test name="Basic inter platform communication" skip="false">
+		<TestClassName>test.funcionalidade.tests.TestCase1.java</TestClassName>
+		<WhatTest> Tests sending and receiving a message to/from an agent on a remote platafform</WhatTest>
+		<HowWorkTest> An agent is reated on a remote platform and the a ping message is sent to it.</HowWorkTest>
+		<WhenTestPass> the teste passes if the agent on the remote plataform receives the ping message an replies correctaly no exception is fired.
+		</WhenTestPass>
+	</Test>
+	
+</TestList>
